@@ -9,7 +9,7 @@
     "username": {
       "type": "string",
       "selector": "[name=\"username\"]",
-      "control": ".text"
+      "control": "text"
     },
     "password": {
       "type": "string",
