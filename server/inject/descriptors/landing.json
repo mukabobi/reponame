@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "isLanding": {
+      "type": "string",
+      "selector": "a",
+      "control": "exists",
+      "selectContains": "Assigned to Me"
+    },
+    "clickAssignedToMe": {
+      "type": "action",
+      "selector": ".subtle",
+      "control": "action.button",
+      "selectContains": "Assigned to Me"
+    }
+  },
+  "connect": []
+}
