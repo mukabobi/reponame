@@ -7,7 +7,7 @@
       "control": "exists"
     },
     "username": {
-      "type": "action",
+      "type": "string",
       "selector": "[name=\"username\"]",
       "control": ".text"
     },
