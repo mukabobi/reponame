@@ -13,8 +13,8 @@
     },
     "password": {
       "type": "string",
-      "selector": ".button",
-      "control": "action.button"
+      "selector": "[name=\"password\"]",
+      "control": "text"
     },
     "submit": {
       "type": "action",
