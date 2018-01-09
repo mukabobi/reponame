@@ -12,7 +12,7 @@
       "control": ".text"
     },
     "password": {
-      "type": "action",
+      "type": "string",
       "selector": ".button",
       "control": "action.button"
     },
