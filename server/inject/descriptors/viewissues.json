@@ -34,12 +34,6 @@
       "screens": [
         "listview"
       ]
-    },
-    {
-      "match": [],
-      "screens": [
-        "listview"
-      ]
     }
   ]
 }
