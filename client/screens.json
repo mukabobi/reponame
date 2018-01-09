@@ -33,7 +33,7 @@
       "name": "listView",
       "sourceScreenId": "app.listview.listviewcool",
       "sourceAppId": "universaltemplates",
-      "model": "listview"
+      "model": "viewissues"
     }
   ],
   "sourceAppId": "_blank",

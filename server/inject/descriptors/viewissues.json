@@ -23,5 +23,12 @@
       }
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "listview"
+      ]
+    }
+  ]
 }

@@ -71,5 +71,24 @@
         }
       }
     }
+  },
+  "viewissues": {
+    "type": "object",
+    "properties": {
+      "issueslist": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }
