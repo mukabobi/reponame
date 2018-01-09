@@ -3,7 +3,7 @@
   "properties": {
     "issueslist": {
       "type": "array",
-      "selectorAll": "#buglist.tr[bgcolor]",
+      "selectorAll": "#buglist.tr[bgcolor=\"#c2dfff\"]",
       "items": {
         "type": "object",
         "properties": {
