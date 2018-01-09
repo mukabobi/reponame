@@ -5,6 +5,16 @@
       "type": "identifier",
       "selector": "body",
       "control": "exists"
+    },
+    "username": {
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button"
+    },
+    "password": {
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": [
