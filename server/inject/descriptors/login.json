@@ -30,6 +30,12 @@
       "screens": [
         "login"
       ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "login"
+      ]
     }
   ]
 }
