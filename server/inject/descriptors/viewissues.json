@@ -23,7 +23,7 @@
       }
     },
     "isViewIssues": {
-      "type": "string",
+      "type": "identifier",
       "selector": "html",
       "control": "url.view_all_bug_page"
     }
