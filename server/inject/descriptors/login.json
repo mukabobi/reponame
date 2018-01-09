@@ -8,8 +8,8 @@
     },
     "username": {
       "type": "action",
-      "selector": ".button",
-      "control": "action.button"
+      "selector": "[name=\"username\"]",
+      "control": ".text"
     },
     "password": {
       "type": "action",
