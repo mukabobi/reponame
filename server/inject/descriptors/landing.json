@@ -9,9 +9,9 @@
     },
     "clickAssignedToMe": {
       "type": "action",
-      "selector": ".subtle",
-      "control": "action.button",
-      "selectContains": "Assigned to Me"
+      "selector": "a[href =\"/mantisbt/view_all_bug_page.php\"]",
+      "control": "action.link",
+      "selectContains": "View Issues"
     }
   },
   "connect": [
